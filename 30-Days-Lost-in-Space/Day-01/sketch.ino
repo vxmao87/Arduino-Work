@@ -5,6 +5,8 @@ In the Arduino IDE, click the check mark to Verify your code.
 If there are no errors, click on the arrow to Upload your code to your Arduino.
 
 The 'setup' code sets up the Arduino UNO. The 'loop' code specifies what you want the Arduino to do.
+
+To add new libraries, download them as ZIP files, then head to Sketch -> Include Library... -> Add .ZIP Library and then find the ZIP folder.
 */
 
 void setup () {
